@@ -15,3 +15,6 @@ https://jacrifla.github.io/html-css/exercicios/ex013/
 https://jacrifla.github.io/html-css/exercicios/ex014/
 https://jacrifla.github.io/html-css/exercicios/ex015/
 https://jacrifla.github.io/html-css/exercicios/ex002/
+
+- Desafios
+https://jacrifla.github.io/html-css/desafios/d001/
