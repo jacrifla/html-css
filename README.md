@@ -1,5 +1,5 @@
 # html-css
- HTML e CSS3
+ *HTML e CSS3*
 https://jacrifla.github.io/html-css/exercicios/ex001/
 https://jacrifla.github.io/html-css/exercicios/ex002/
 https://jacrifla.github.io/html-css/exercicios/ex003/
@@ -14,7 +14,28 @@ https://jacrifla.github.io/html-css/exercicios/ex012/
 https://jacrifla.github.io/html-css/exercicios/ex013/
 https://jacrifla.github.io/html-css/exercicios/ex014/
 https://jacrifla.github.io/html-css/exercicios/ex015/
-https://jacrifla.github.io/html-css/exercicios/ex002/
+https://jacrifla.github.io/html-css/exercicios/ex016/
+https://jacrifla.github.io/html-css/exercicios/ex017/
+https://jacrifla.github.io/html-css/exercicios/ex018/
+https://jacrifla.github.io/html-css/exercicios/ex019/
+https://jacrifla.github.io/html-css/exercicios/ex020/
+https://jacrifla.github.io/html-css/exercicios/ex021/
+https://jacrifla.github.io/html-css/exercicios/ex022/
+https://jacrifla.github.io/html-css/exercicios/ex023/
+https://jacrifla.github.io/html-css/exercicios/ex024/
+https://jacrifla.github.io/html-css/exercicios/ex025/
+https://jacrifla.github.io/html-css/exercicios/ex026/
 
-- Desafios
+*Desafios*
 https://jacrifla.github.io/html-css/desafios/d001/
+https://jacrifla.github.io/html-css/desafios/d002/
+https://jacrifla.github.io/html-css/desafios/d003/
+https://jacrifla.github.io/html-css/desafios/d004/
+https://jacrifla.github.io/html-css/desafios/d005/
+https://jacrifla.github.io/html-css/desafios/d006/
+https://jacrifla.github.io/html-css/desafios/d007/
+https://jacrifla.github.io/html-css/desafios/d008/
+https://jacrifla.github.io/html-css/desafios/d009/
+https://jacrifla.github.io/html-css/desafios/d010/
+https://jacrifla.github.io/html-css/desafios/d012/
+https://jacrifla.github.io/html-css/desafios/d013/
