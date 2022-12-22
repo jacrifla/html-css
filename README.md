@@ -1,5 +1,7 @@
 # HTML & CSS
- ### Exercícios
+
+### Exercícios
+ 
 * [Exercício 1](https://jacrifla.github.io/html-css/exercicios/ex001/)
 * [Exercício 2](https://jacrifla.github.io/html-css/exercicios/ex002/)
 * [Exercício 3](https://jacrifla.github.io/html-css/exercicios/ex003/)
